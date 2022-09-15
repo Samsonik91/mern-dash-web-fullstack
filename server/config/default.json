@@ -1,0 +1,5 @@
+{
+  "servicePORT" : 5000,
+  "dbURL": "mongodb+srv://Alexandr:Sanchez1991@mern-claster.pzxr4.mongodb.net/Dashboard?retryWrites=true&w=majority",
+  "secretKey": "my_new_power_secretKey_for_Dashboard"
+}
